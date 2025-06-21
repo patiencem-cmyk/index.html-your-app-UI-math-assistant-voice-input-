@@ -24,5 +24,5 @@ function listenToMath() {
   recognition.onerror = (e) => {
     speakText("There was a problem listening.");
     console.error(e);
-  };
+  };const apiKey = https://api.openai.com/v1/chat/completions
 }
